@@ -6,7 +6,7 @@ Day-1 :- Setup & Orientation.
    
 3. Download & install a pentesting distro: [Install Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
    
-4. Install AlmaLinux 10 (Red Hat–compatible) VMware: [Install ALmaLinux](https://almalinux.org/get-almalinux/)
+4. Install AlmaLinux 10 (Red Hat–compatible) VMware: [Install ALmaLinux](https://almalinux.org/get-almalinux/) or [Metasploitable2](https://sourceforge.net/projects/metasploitable/)
    
 5. Learn basic commands (docs): [commands](https://linuxcommand.org/lc3_learning_the_shell.php)
                                 Commands: whoami, id, pwd, ls -la, uname -a, cat /etc/os-release
@@ -19,7 +19,7 @@ Day-2 :- Linux Fundamentals (core shell)
 2. Core concepts: [Understanding core concepts](https://ryanstutorials.net/linuxtutorial/) 
    
 
-Day-3 :– Permissions & Ownership
+Day-3 :– Permissions & Ownership 
 
 1. Learn permissions: read (r), write (w), execute (x).
 
@@ -62,7 +62,7 @@ Day-6 :- Networking Basics
 Resources :- [IP Command Examples](https://www.tecmint.com/ip-command-examples/), [Cisco Networking Basics Course](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 
 
-Day-7 :- Shell Scripting Basics
+Day-7 :- Shell Scripting Basics{bash}
 
 1. Write a script to:
 
