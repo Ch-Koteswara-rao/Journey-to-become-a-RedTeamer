@@ -85,4 +85,4 @@ At the end of Week 1, we will:
 
   --> Understand networking commands.
 
-  --> Write simple shell scripts.
+  --> Write simple shell scripts..
