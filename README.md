@@ -97,7 +97,7 @@ All activities should be performed ethically and within legal boundaries.
 
 ---
 
-## 💬 Connect
+## 💬 Connect  
 
 - **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
